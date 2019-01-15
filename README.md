@@ -1,3 +1,5 @@
 # best-repo-ever
-
-Test2 
+<<<<<<< HEAD
+=======
+test
+>>>>>>> origin/master
